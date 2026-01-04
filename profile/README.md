@@ -1,16 +1,15 @@
-Welcome to Applied Mechatronics Lab (AML) - Phenikaa University. 
-More information can be found at: https://sites.google.com/phenikaa-uni.edu.vn/aml 
-We are a research lab in Faculty of Mechanical Engineering and Mechatronics, Phenikaa University where the aim is to build an environment for enthusistatic students, researchers, and engineers to solve the engineering problems. 
-Our slogan is "Driven by science, Defined by results". 
-Any recommendation or collabration, please contact: aml.phenikaa@gmail.com
+# Applied Mechatronics Lab (AML) — Phenikaa University
 
-<!--
+Welcome to the **Applied Mechatronics Lab (AML)** at **Phenikaa University**.
 
-**Here are some ideas to get you started:**
+We are a research lab within the **Faculty of Mechanical Engineering and Mechatronics**, where our mission is to build a supportive environment for enthusiastic students, researchers, and engineers to tackle real-world engineering challenges.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Slogan:** *Driven by science, Defined by results.*
+
+## Learn more
+- Website: https://sites.google.com/phenikaa-uni.edu.vn/aml
+
+## Collaboration & Contact
+We welcome recommendations, partnerships, and collaboration opportunities.
+
+- Email: aml.phenikaa@gmail.com
